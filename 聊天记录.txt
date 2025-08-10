@@ -1,9 +1,0 @@
-{"type": 80, "message": {"username": "1", "message": "hfks"}, "timestamp": "2024-12-09 20:47:05"}
-{"type": 80, "message": {"username": "1", "message": "fwdl"}, "timestamp": "2024-12-09 20:47:06"}
-{"type": 80, "message": {"username": "2", "message": "2"}, "timestamp": "2024-12-09 20:47:13"}
-{"type": 80, "message": {"username": "1", "message": "nihao"}, "timestamp": "2024-12-10 15:48:24"}
-{"type": 80, "message": {"username": "1", "message": "\u591a\u5c11\u5ea6"}, "timestamp": "2024-12-17 09:09:30"}
-{"type": 80, "message": {"username": "1", "message": "3"}, "timestamp": "2024-12-17 09:15:09"}
-{"type": 80, "message": {"username": "2", "message": "333"}, "timestamp": "2024-12-17 09:15:17"}
-{"type": 80, "message": {"username": "1", "message": "hello"}, "timestamp": "2025-02-25 10:38:04"}
-{"type": 80, "message": {"username": "2", "message": "\u4f60\u597d"}, "timestamp": "2025-02-25 10:38:09"}
